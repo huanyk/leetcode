@@ -1,0 +1,5 @@
+#罗马数字转整数
+![timu] (https://github.com/huanyk/leetcode/blob/master/Roman.jpg)
+a={'I':1}
+ans=0
+  for i in range(len(s)):
